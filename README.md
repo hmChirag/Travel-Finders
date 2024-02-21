@@ -4,7 +4,7 @@ Welcome to Travel Finders GitHub repository!
 
 ## Introduction
 
-Travel Finders is a web-based travel agency dedicated to helping people explore the wonders of the world at affordable prices. This repository houses the codebase for our website, built using HTML, CSS, JavaScript, and Bootstrap.
+Travel Finders is a web-based travel agency dedicated to helping people explore the wonders of the world at affordable prices. This repository houses the codebase for our website, built using HTML, CSS and Bootstrap.
 
 ## About Travel Finders
 
@@ -25,8 +25,6 @@ At Travel Finders, we believe that traveling should be accessible to everyone. O
 - **HTML:** Used for structuring the web pages.
   
 - **CSS:** Employed for styling and layout of the website.
-  
-- **JavaScript:** Implemented for interactivity and dynamic content.
   
 - **Bootstrap:** Utilized for responsive design and pre-built components.
   
